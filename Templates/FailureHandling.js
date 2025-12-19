@@ -1,0 +1,5 @@
+export const FailureHandling = {
+    STOP_ON_FAILURE: 'STOP_ON_FAILURE',
+    CONTINUE_ON_FAILURE: 'CONTINUE_ON_FAILURE',
+    OPTIONAL: 'OPTIONAL',
+};
